@@ -56,7 +56,74 @@
     d1 | 
     r1 | 
     r4 b4 d4 e4 | 
-    
+        g1 | 
+    g4 a4 a8( fis8) e8( d8) | 
+    b1( | 
+    b4) fis'4 e4 d4 | 
+    b1( | 
+    b4) e4 cis4 b4 | 
+    a2( a8) a8( b8 d8) | 
+    e2 e8 g8 e8 d8 | 
+    e1( e4) e8( d8) b4.( a8) | 
+    g4 r4 r2 | 
+    b4 r4 r2 | 
+    cis2 d4 cis4 | 
+    d1 | 
+    g,4. a8 b2 | 
+    g4 a8 b8 d2 |
+    g,4. a8 b2 | 
+    d4. b8 a2 | 
+    r4 a4 r4 a4 | 
+    g4.( a8) b4.( d8) | 
+    e2 e2 | 
+    d8 d4 e8 d2 | 
+    a2 a8( a4 a8) | 
+    b2 b8( b4 b8) | 
+    a2 cis2 | 
+    d8 r8 r4 r2 | 
+    r1 | 
+    r1 | 
+    b4. d8 \grace{ a'16 } fis4 e4 | 
+    d1 | 
+    b4. g8 cis4 b4 | 
+    a1 | 
+    d4. e8 g4 fis4 | 
+    e8.( fis16) e8( d8 b2) | 
+    a2 b2 | 
+    a1 | 
+    a8.( g16 a8) b8 d4.( e8) | 
+    b8.( c16 b8 a8) g2 | 
+    a4 b8( d8) d4( fis4) | 
+    e1( | 
+    e4.) g8 a2 | 
+    a4.( b8) d2 | 
+    a2. cis4 | 
+    d1 | 
+    r1 | 
+    r4 b4 fis4 e4 | 
+    d1( | 
+    d4) fis4( e4 d4) |  
+    b1( | 
+    b2.) e8( g8) | 
+    a1( | 
+    a4) e'4 cis4 b4 | 
+    a1 | 
+    g2. g8( b8) | 
+    a1( | 
+    a4) b4 a4 e4 | 
+    b2. a4 | 
+    a2. a8( b8) | 
+    d2 e2 | 
+    d1 | 
+    r8 b8( d8 e8) g2( | 
+    g4) b4 a8 b8 g8( fis8) |
+    e1( | 
+    e4) a8( b8) a8( g8) a8( b8) | 
+    d8( b8) d8( e8) g2( | 
+    g4) b4 d8( b8) d8( e8) | 
+    g1 | 
+    g4 fis4 e8( d8) d8( b8) | 
+    a4. b8 c2 | 
   }
 
   \layout {}
