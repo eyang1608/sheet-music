@@ -124,6 +124,105 @@
     g1 | 
     g4 fis4 e8( d8) d8( b8) | 
     a4. b8 c2 | 
+    b8. c16 b8 a8 g2 | 
+    a2 b4 d4 | 
+    e1 | 
+    e1 | 
+    d1 | 
+    b2 cis2 | 
+    d1 | 
+    b2 cis2 | 
+    d,2. r4 | 
+    a1 | 
+    b1 | 
+    d8 r8 r4 r2 | 
+    r1 | 
+    g4. b8 b4 r4 | 
+    g4 a8 b8 d4 r4 | 
+    g,4. a8 b4 r4 | 
+    d4. b8 a4 r4 | 
+    r4 a4 r4 a4 | 
+    g4. a8 b2 | 
+    e,2 e2 | 
+    d8 d4 e8 d2 | 
+    a2 a8 a4 a8 |
+    b2 b8 b4 b8 | 
+    a2 cis2 | 
+    d8 d4 e8 d2 | 
+    d1( | 
+    d8) b8 d8 e8 g2 |
+    d1( | 
+    d8) a'8 fis8 e8 d2 | 
+    b1( | 
+    b8) a8 g8 a8 b2 | 
+    b1( | 
+    b4) e8( d8) cis8( b8) a8( g8) | 
+    a2( a8) a8 b8( d8) |
+    e2( e8) g8 b4( | 
+    b4) b2.( |
+    b4) b8 d8 e8 b8 d8 e8 | 
+    g1 | 
+    d2. d8 b8 | 
+    a4 r4 b4 a4 | 
+    b8 b8 b8 b8 b8 b8 b8 b8 |
+    b8 b8 b8 b8 b8 b8 b8 b8 |
+    b8 b8 b8 b8 b8 b8 b8 b8 |
+    b8 b8 b8 b8 b8 b8 b8 b8 |
+    a8 a8 a8 a8 a8 a8 a8 a8 |
+    a8 a8 a8 a8 a8 a8 a8 a8 |
+    b8 b8 a4 r2 | 
+    b8 b8 a4 r2 | 
+    a8 b8 a8 b8 a8 b8 a8 b8 | 
+    d8 e8 d8 e8 d8 e8 d8 e8 | 
+    \time 2/4
+    d4 r4 | 
+    \time 4/4
+    e,8 fis8 e8 e8 e8 e8 e8 e8 | 
+    e8 e8 e8 e8 e4 r4 | 
+    d8 e8 d8 d8 d8 d8 d8 d8 | 
+    d8 d8 d8 d8 d8 d8 d8 d8 | 
+    b8 r8 r4 r2 | 
+    b8 b8 e8 e8 fis8 e8 d4 | 
+    r2 r4 r8 d8 | 
+    b8 b8 e8 a8 fis8 e8 d8 r8 | 
+    r4 r8 e8 a8 b8 d8 r8 | 
+    r4 r8 e,8 a8 b8 d8 r8 | 
+    d8 e8 r4 r2 | 
+    d8 e8 r4 r2 | 
+    d2 c2 | 
+    b2 a2 | 
+    g4. a8 b4 b4 | 
+    b4 b4 r4 b4 | 
+    b4 b4 b4 g4 | 
+    b4 r4 r2 | 
+    g4. a8 b4 b4 | 
+    b2 g2 | 
+    a2. b4 | 
+    a1 | 
+    b2. d4 | 
+    e2 d2 | 
+    d2. b4 | 
+    b1 | 
+    a1 | 
+    g1 | 
+    a1 | 
+    a1 | 
+    a4 r8 a8 r8 a8 a8 a8 | 
+    b4 r8 b8 r8 b8 b8 b8 | 
+    a4 r8 a8 r8 a8 a8 a8 | 
+    a4 r8 a8 r8 a8 a8 a8 |
+    a2 a8 a4 a8 | 
+    b2 b8 b4 b8 | 
+    b8. b16 a8 a8 b8 a8 g8 g8 | 
+    r1 | 
+    d4.\accent e8\accent d4.\accent e8\accent | 
+    d4. e8 d4. e8 | 
+    d8 e8 d8 e8 d8 e8 d8 e8 |
+    d8 e8 d8 e8 d8 e8 d8 e8 |
+    d4 r4 d4 r4 | 
+    d1 | 
+    d1 | 
+    d4 r4 r2 
   }
 
   \layout {}
